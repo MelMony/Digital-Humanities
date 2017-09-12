@@ -1,7 +1,5 @@
 # Digital-Humanities
 
-![img_0925](https://user-images.githubusercontent.com/31891015/30330974-856ef2b2-97a4-11e7-8ecb-1f2ae9af7123.JPG)
-
 ## Biography
 My name is Melissa Mony and I have recently moved to Montreal from Australia. I previously studied a Bmus in Jazz performance at the Sydney Conservatorium of Music. I am currently studying a MA in musicology at McGill.
 
@@ -13,3 +11,5 @@ My name is Melissa Mony and I have recently moved to Montreal from Australia. I 
 * Develop a digital skill set in the presentation and dissemination of academic research.
 * Discover digital methods of examining, analysing and manipulating musicalogical data.
 * Learn about the history and development of the digital humanities, with particular regard to the issues surrounding the study of digital mediums in the information era.
+
+![img_0925](https://user-images.githubusercontent.com/31891015/30330974-856ef2b2-97a4-11e7-8ecb-1f2ae9af7123.JPG)
