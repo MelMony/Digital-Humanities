@@ -1,6 +1,7 @@
 # Digital-Humanities
 
 ## Biography
+My name is Melissa Mony and I have recently moved to Montreal from Australia. I previously studied a Bmus in Jazz performance at the Sydney Conservatorium of Music. I am currently studying a MA in musicology at McGill.
 
 ## Graduate Research Project
  My research focuses on the music of video games - othwerise known as Ludomusicology. More specifically, I am interested in the 'sandbox' game genre and it's parallels with aleatory compositional structures in improvised music and avant-garde composers of the 20th century.
