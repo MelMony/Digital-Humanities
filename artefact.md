@@ -33,9 +33,10 @@ Jennifer Olive is a researcher at Georgia State University who is exploring the 
 
 <div style= <img align="center"><img src ="https://user-images.githubusercontent.com/31891015/31282403-7ab7cb3e-aa80-11e7-9179-c60f2e30fec8.png" <img width="500"> </div>
 
-## All the things you are: accsessing an enriched musicological prosopography through _JazzCats_
+<h2 align="center">All the things you are: accsessing an enriched musicological prosopography through _JazzCats_</h2>
 
 **Artefact Type:** 
+
 Linked Data Prototype Tool
 
 **Source URL:** 
@@ -44,7 +45,9 @@ https://dh2017.adho.org/abstracts/305/305.pdf
 
 http://jazzcats.oerc.ox.ac.uk/ 
 
-**Permissions:** Creative Commons-Attribution 4.0
+**Permissions:** 
+
+Creative Commons-Attribution 4.0
 
 **Creators/Affiliations:**
 
@@ -54,23 +57,30 @@ Daniel Bangert *University of New South Wales, Australia*
 
 Alfie Abdul-Rahman *University of Oxford, United Kingdom*
 
-**Tags:** Musicology, Jazz, Databases, Open-data
+**Tags:** 
+
+Musicology, Jazz, Databases, Open-data
 
 **Annotation:**
 
 JazzCats is a collaborative research project which has created a linked open data (LOD) prototype tool that aggregates data from three databases; LinkedJazz, WjazzD, and Body&Soul. LinkedJazz is a social network of data on musician relationships, WjazzD provides detailed musicological data on solos within performances and Body&Soul is a discography of jazz recordings. *“Bringing these resources together has enabled a new type of research question, possible only through using criteria from one dataset to inform and hone results from another”*.  JazzCats aspires to publish in open and accessible formats using licensing such as Open Data Commons Open Database License (ODbL) and Database Contents License (DCL) to facilitate a broad research base, thus enabling replication of workflows, verification of data experiments and reuse of architecture in future academic projects. Given further development JazzCats could become an essential research tool in musicological, historical and prosopography investigations.
 
 
+<h2 align="center">Digital Musicology: through research and teaching</h2>
 
 <div style= <img align="center"><img src ="https://user-images.githubusercontent.com/31891015/31282771-8e2f0492-aa81-11e7-8219-5d2102dbece1.png" <img width="500"> </div>
 
-##  Digital Musicology: through research and teaching
-
 **Artefact Type:** 
 
-__Source URL:__ https://dh2017.adho.org/abstracts/371/371.pdf
+Learning
 
-**Permissions:** Creative Commons-Attribution 4.0
+__Source URL:__ 
+
+https://dh2017.adho.org/abstracts/371/371.pdf
+
+**Permissions:** 
+
+Creative Commons-Attribution 4.0
 
 **Creators/Affiliations:**
 
@@ -84,6 +94,7 @@ David De Roure *Oxford University, United Kingdom*
 
 
 **Tags:**
+
 Musicology, Teaching, Digital Humanities
 
 **Annontation:**
@@ -107,8 +118,3 @@ __Screenshot Images: *All retrieved on 6th October 2017*__
 Nurmikko-Fuller, Terhi, Daniel Bangert, and Alfie Abdul-Rahman. 2016. "Jazzcats". Jazzcats.Oerc.Ox.Ac.Uk. http://jazzcats.oerc.ox.ac.uk/.
 
 Olive, Jennifer. 2017. Model For Trauma Representation In Video Games. Image. http://sites.gsu.edu/jolive1/files/2017/08/Olive_DH2017_slides-217cx07.pdf.
-
-
-
-
-
