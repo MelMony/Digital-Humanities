@@ -9,14 +9,19 @@
 Academic Paper Presentation Abstract
 
 **Source URL:** 
+
 https://dh2017.adho.org/abstracts/254/254.pdf
 
-**Permissions:** Creative Commons-Attribution 4.0
+**Permissions:** 
+
+Creative Commons-Attribution 4.0
 
 **Creator/Affiliation:** 
+
 Jennifer Olive - Georgia State University, USA.
 
 **Tags:** 
+
 Video Games, Trauma, Empathy, Media Studies
 
 **Annontation:**
