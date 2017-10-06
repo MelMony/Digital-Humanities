@@ -1,6 +1,4 @@
-<p align="center"> 
-  
-# Digital Artefacts
+<p align="center" # Digital Artefacts p>
 
 ## Trauma Representations in Video Games 
 
