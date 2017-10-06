@@ -2,7 +2,7 @@
 
 ## Trauma Representations in Video Games
 
-![alt text] (https://user-images.githubusercontent.com/31891015/31282581-fd8842c8-aa80-11e7-935e-a8f121f91c22.png)
+<div style="text-align:center"><img src ="https://user-images.githubusercontent.com/31891015/31282581-fd8842c8-aa80-11e7-935e-a8f121f91c22.png" /></div>
 
 **Artefact Type:** 
 Academic Paper Presentation Abstract
