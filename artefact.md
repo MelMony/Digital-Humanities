@@ -1,4 +1,4 @@
-<center> <h1>heading 1</h1> </center>
+<text align="center"> <h1>heading 1</h1> 
 
 ## Trauma Representations in Video Games 
 
