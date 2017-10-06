@@ -25,7 +25,7 @@ Jennifer Olive is a researcher at Georgia State University who is exploring the 
 
 ## All the things you are: accsessing an enriched musicological prosopography through _JazzCats_
 
-<div style="text-align:center"><img src ="https://user-images.githubusercontent.com/31891015/31282403-7ab7cb3e-aa80-11e7-9179-c60f2e30fec8.png" /></div>
+<div style="text-align:center"><img src ="https://user-images.githubusercontent.com/31891015/31282403-7ab7cb3e-aa80-11e7-9179-c60f2e30fec8.png" <img width="500"> </div>
 
 **Artefact Type:** 
 Linked Data Prototype Tool
@@ -54,7 +54,7 @@ JazzCats is a collaborative research project which has created a linked open dat
 
 ##  Digital Musicology: through research and teaching
 
-<div style="text-align:center"><img src ="https://user-images.githubusercontent.com/31891015/31282771-8e2f0492-aa81-11e7-8219-5d2102dbece1.png" /></div>
+<div style="text-align:center"><img src ="https://user-images.githubusercontent.com/31891015/31282771-8e2f0492-aa81-11e7-8219-5d2102dbece1.png" <img width="500"> </div>
 
 **Artefact Type:** 
 
