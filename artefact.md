@@ -31,8 +31,8 @@ Jennifer Olive is a researcher at Georgia State University who is exploring the 
 
 <div style= <img align="center"><img src ="https://user-images.githubusercontent.com/31891015/31282403-7ab7cb3e-aa80-11e7-9179-c60f2e30fec8.png" <img width="500"> </div>
 
-<h2 align="center">All the things you are: </h2>
-<h2 align="center">accsessing an enriched musicological prosopography through JazzCats</h2>
+<h2 align="center">All the things you are: 
+accsessing an enriched musicological prosopography through JazzCats</h2>
 
 **Artefact Type:** 
 
