@@ -24,6 +24,7 @@ https://dh2017.adho.org/abstracts/305/305.pdf
 http://jazzcats.oerc.ox.ac.uk/ 
 
 **Creators/Affiliations:**
+
 Terhi Nurmikko-Fuller *Australian National Univeristy, Australia* 
 
 Daniel Bangert *University of New South Wales, Australia*
