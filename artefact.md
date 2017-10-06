@@ -7,7 +7,7 @@ Academic Paper Presentation Abstract
 **Source URL:** 
 https://dh2017.adho.org/abstracts/254/254.pdf
 
-Permissions: Creative Commons-Attribution 4.0
+**Permissions:** Creative Commons-Attribution 4.0
 
 **Creator/Affiliation:** 
 Jennifer Olive - Georgia State University, USA.
@@ -30,6 +30,8 @@ https://dh2017.adho.org/abstracts/305/305.pdf
 
 http://jazzcats.oerc.ox.ac.uk/ 
 
+**Permissions:** Creative Commons-Attribution 4.0
+
 **Creators/Affiliations:**
 
 Terhi Nurmikko-Fuller *Australian National Univeristy, Australia* 
@@ -46,7 +48,11 @@ JazzCats is a collaborative research project which has created a linked open dat
 
 ##  Digital Musicology: through research and teaching
 
+**Artefact Type:** 
+
 __Source URL:__ https://dh2017.adho.org/abstracts/371/371.pdf
+
+**Permissions:** Creative Commons-Attribution 4.0
 
 **Creators/Affiliations:**
 
