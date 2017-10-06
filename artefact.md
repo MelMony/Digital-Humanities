@@ -24,6 +24,9 @@ Jennifer Olive is a researcher at Georgia State University who is exploring the 
 
 
 ## All the things you are: accsessing an enriched musicological prosopography through _JazzCats_
+
+<div style="text-align:center"><img src ="https://user-images.githubusercontent.com/31891015/31282403-7ab7cb3e-aa80-11e7-9179-c60f2e30fec8.png" /></div>
+
 **Artefact Type:** 
 Linked Data Prototype Tool
 
@@ -50,6 +53,8 @@ Alfie Abdul-Rahman *University of Oxford, United Kingdom*
 JazzCats is a collaborative research project which has created a linked open data (LOD) prototype tool that aggregates data from three databases; LinkedJazz, WjazzD, and Body&Soul. LinkedJazz is a social network of data on musician relationships, WjazzD provides detailed musicological data on solos within performances and Body&Soul is a discography of jazz recordings. *“Bringing these resources together has enabled a new type of research question, possible only through using criteria from one dataset to inform and hone results from another”*.  JazzCats aspires to publish in open and accessible formats using licensing such as Open Data Commons Open Database License (ODbL) and Database Contents License (DCL) to facilitate a broad research base, thus enabling replication of workflows, verification of data experiments and reuse of architecture in future academic projects. Given further development JazzCats could become an essential research tool in musicological, historical and prosopography investigations.
 
 ##  Digital Musicology: through research and teaching
+
+<div style="text-align:center"><img src ="https://user-images.githubusercontent.com/31891015/31282771-8e2f0492-aa81-11e7-8219-5d2102dbece1.png" /></div>
 
 **Artefact Type:** 
 
