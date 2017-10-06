@@ -70,7 +70,7 @@ JazzCats is a collaborative research project which has created a linked open dat
 
 **Artefact Type:** 
 
-Learning
+Research and Teaching Project
 
 __Source URL:__ 
 
