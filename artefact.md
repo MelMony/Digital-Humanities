@@ -29,11 +29,9 @@ Video Games, Trauma, Empathy, Media Studies
 Jennifer Olive is a researcher at Georgia State University who is exploring the rise of the ‘empathy’ genre in the indie video game market; games which navigate serious and often traumatic subject matters through a ludic lens. Her paper proposes a new methodology for analysing the intersections of trauma studies and video games. The unique aesthetic and technological parameters of the medium allow the interaction of audiences through ‘witness’ or ‘perpetrator’ perspectives. The power of this affective ‘play’ can drive new insights and transform empathetic responses on a broad spectrum of distressing, dark or taboo themes. As an interactive digital media platform it is paramount that the digital humanities develop critical frameworks to understand the unique potential of this ludic medium.
 
 
-
-
 <div style= <img align="center"><img src ="https://user-images.githubusercontent.com/31891015/31282403-7ab7cb3e-aa80-11e7-9179-c60f2e30fec8.png" <img width="500"> </div>
 
-<h2 align="center">All the things you are: accsessing an enriched musicological prosopography through _JazzCats_</h2>
+<h2 align="center">All the things you are: accsessing an enriched musicological prosopography through JazzCats</h2>
 
 **Artefact Type:** 
 
