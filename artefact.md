@@ -15,10 +15,11 @@
 Jennifer Olive is a researcher at Georgia State University who is exploring the rise of the ‘empathy’ genre in the indie video game market; games which navigate serious and often traumatic subject matters through a ludic lens. Her paper proposes a new methodology for analysing the intersections of trauma studies and video games. The unique aesthetic and technological parameters of the medium allow the interaction of audiences through ‘witness’ or ‘perpetrator’ perspectives. The power of this affective ‘play’ can drive new insights and transform empathetic responses on a broad spectrum of distressing, dark or taboo themes. As an interactive digital media platform it is paramount that the digital humanities develop critical frameworks to understand the unique potential of this ludic medium.
 
 
-## All the things you are: accsessing an enriched musicological prosopography through JazzCats
+## All the things you are: accsessing an enriched musicological prosopography through _JazzCats_
 **Artefact Type:** Linked Data Prototype Tool
 
 **Source URL:** 
+
 https://dh2017.adho.org/abstracts/305/305.pdf
 
 http://jazzcats.oerc.ox.ac.uk/ 
@@ -36,10 +37,26 @@ Alfie Abdul-Rahman *University of Oxford, United Kingdom*
 **Annotation:**
 JazzCats is a collaborative research project which has created a linked open data (LOD) prototype tool that aggregates data from three databases; LinkedJazz, WjazzD, and Body&Soul. LinkedJazz is a social network of data on musician relationships, WjazzD provides detailed musicological data on solos within performances and Body&Soul is a discography of jazz recordings. *“Bringing these resources together has enabled a new type of research question, possible only through using criteria from one dataset to inform and hone results from another”*.  JazzCats aspires to publish in open and accessible formats using licensing such as Open Data Commons Open Database License (ODbL) and Database Contents License (DCL) to facilitate a broad research base, thus enabling replication of workflows, verification of data experiments and reuse of architecture in future academic projects. Given further development JazzCats could become an essential research tool in musicological, historical and prosopography investigations.
 
+## 
+
+__Source URL:__ https://dh2017.adho.org/abstracts/371/371.pdf
+
+**Creators/Affiliations:**
+
+Tim Crawford *Goldsmiths, University of London, United Kingdom*
+
+Kevin Page *Oxford University, United Kingdom*
+
+David Lewis *Oxford University, United Kingdom*
+
+David De Roure *Oxford University, United Kingdom*
 
 
+**Tags:** Musicology, Teaching, Digital Humanities
 
-
+**Annontation:**
 
 
 ## Works Cited
+
+
