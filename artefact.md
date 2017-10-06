@@ -68,6 +68,7 @@ Musicology, Teaching, Digital Humanities
 ## Works Cited
 
 **Works:**
+
 Crawford, Tim, Kevin Page, David Lewis, and David De Roure. 2017. "Digital Musicology: Through Research And Teaching". Presentation, ADHO Conference, Montreal, Canada.
 
 Nurmikko-Fuller, Terhi, Daniel Bangert, and Alfie Abdul-Rahman. 2017. "All The Things You Are: Accessing An Enriched Musicological Prosopography Through Jazzcats". Presentation, ADHO Conference, Montreal, Canada.
@@ -76,6 +77,7 @@ Olive, Jennifer. 2017. "Trauma Representations In Video Games". Presentation, AD
 
 
 __Screenshot Images: *All retrieved on 6th October 2017*__
+
 "About". 2013. Transforming Musicology. http://www.transforming-musicology.org/about/.
 
 Nurmikko-Fuller, Terhi, Daniel Bangert, and Alfie Abdul-Rahman. 2016. "Jazzcats". Jazzcats.Oerc.Ox.Ac.Uk. http://jazzcats.oerc.ox.ac.uk/.
