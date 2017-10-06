@@ -97,6 +97,8 @@ Musicology, Teaching, Digital Humanities
 
 **Annontation:**
 
+In 2013 the Arts and Humanities Research Council (AHRC) of the United Kingdom initiated funding for an innovative new research project; _Transforming Musicology_. The project endeavours to ‘transform’ the discipline of musicology both in practice and dissemination through research and training in digital technologies. _“We see our project as contributing to and supporting the transformation, both through our own research and through developing the skills of others.”_ Transforming Musicology has encouraged experimental research into the musicology of online communities, biometric investigations of physiological data in response to music and use of semantic web technologies in data and toolsets. Education is also a fundamental component in the longevity of the project through the creation of a week-long Digital Musicology Workshop within the Digital Humanities at Oxford Summer School. This workshop seeks to create a space where musicologists can learn and experiment with a variety of new tools and approaches under the guidance of experts.
+
 
 ## Works Cited
 
