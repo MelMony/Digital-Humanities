@@ -1,6 +1,6 @@
 <h1 align="center">Digital Artefacts</h1>
 
-## Trauma Representations in Video Games 
+<h2 align="center">Trauma Representations in Video Games</h2> 
 
 <div style= <img align="center"> <img src ="https://user-images.githubusercontent.com/31891015/31282581-fd8842c8-aa80-11e7-935e-a8f121f91c22.png" <img width="500">  </div>
 
