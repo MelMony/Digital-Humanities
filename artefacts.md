@@ -1,4 +1,4 @@
-<h1 align="center">Digital Artefacts</h1>
+<h1 align="center">Curated Digital Artefacts</h1>
 **************************************************************************************************************
 
 <h2 align="center">Trauma Representations in Video Games</h2>
