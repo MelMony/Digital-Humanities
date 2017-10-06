@@ -1,4 +1,4 @@
-<text align="center"> <h1>heading 1</h1> 
+<h1>Digital Artefact</h1> <text align="center"> 
 
 ## Trauma Representations in Video Games 
 
